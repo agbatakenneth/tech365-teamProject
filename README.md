@@ -84,6 +84,8 @@ Each team member will:
 
 ## Step 2: To be taken by Team members.
 
+. First make sure you go to your email and accept the pending invite before commencing with the under listed procedures
+
 . Go to your git bash and run the following codes sequentially
 
 . # Clone the repository with
