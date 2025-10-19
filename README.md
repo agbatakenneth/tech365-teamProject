@@ -94,7 +94,7 @@ Each team member will:
 
 . cd tech365-teamProject
 
-. # Create and awitch to new branch using your name (replace Agbaken with your name)
+. # Create and switch to new branch using your name (replace Agbaken with your name)
 
 . git checkout -b agbaken-feature
 
